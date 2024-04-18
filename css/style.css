@@ -13,7 +13,7 @@
 .conteudo2{
 
    display: flex;
-    flex-direction: row;
+    flex-direction: colunm;
     justify-content: center;
 
 

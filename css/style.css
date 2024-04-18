@@ -1,0 +1,29 @@
+
+.conteudo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+
+
+
+}
+
+.conteudo2{
+
+    justify-content: center;
+    
+
+
+
+}
+
+body{
+    background-color: #2f4f4f;
+}
+
+.tbl-color{
+    background-color: black;
+}
+
